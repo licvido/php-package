@@ -19,8 +19,8 @@
 	"extra": {
 		"opus": {
 			"evasio": {
-				"app/": "app/",
-			},
+				"app/": "app/"
+			}
 		}
 	}
 }
