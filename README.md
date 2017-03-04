@@ -6,7 +6,7 @@ Package description.
 
 ## Requirements
 
-Package requires PHP 5.6 or higher.
+Package requires PHP 7.0 or higher.
 
 - [another package](https://github.com/licvido/package)
 
