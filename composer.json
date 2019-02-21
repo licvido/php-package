@@ -1,9 +1,8 @@
 {
 	"name": "licvido/package",
 	"description": "Package description.",
-	"type": "library",
 	"require": {
-		"php": ">=7.0"
+		"php": ">=7.1"
 	},
 	"license": "MIT",
 	"authors": [
@@ -14,13 +13,5 @@
 	],
 	"autoload": {
 		"classmap": ["src/"]
-	},
-	"type": "opus-package",
-	"extra": {
-		"opus": {
-			"evasio": {
-				"app/": "/"
-			}
-		}
 	}
 }
