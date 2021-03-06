@@ -2,7 +2,7 @@
 	"name": "licvido/package",
 	"description": "Package description.",
 	"require": {
-		"php": ">=7.1"
+		"php": ">=8.0"
 	},
 	"license": "MIT",
 	"authors": [
