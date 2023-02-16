@@ -21,6 +21,6 @@
 		"classmap": ["tests/"]
 	},
 	"scripts": {
-		"test": "phpunit --testdox"
+		"test": "vendor/bin/phpunit --testdox"
 	}
 }
