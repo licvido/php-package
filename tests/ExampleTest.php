@@ -7,7 +7,7 @@ namespace Vendor\Package;
 class ExampleTest extends \PHPUnit\Framework\TestCase
 {
 
-    public function testTrueIsTrue()
+    public function testTrueIsTrue(): void
     {
         $this->assertTrue(true);
     }
